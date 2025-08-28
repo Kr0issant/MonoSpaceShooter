@@ -1,6 +1,11 @@
-﻿using Microsoft.Xna.Framework;
+﻿using System;
+using Microsoft.Xna.Framework;
 using Microsoft.Xna.Framework.Graphics;
 using Microsoft.Xna.Framework.Input;
+using MonoUtils;
+using MonoUtils.Graphics;
+using MonoUtils.Input;
+using MonoUtils.Utility;
 
 namespace MonoSpaceShooter
 {
